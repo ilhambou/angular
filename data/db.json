@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": 1,"name": "x","price":344,"checked": true
+    },
+    {
+      "id": 2,"name": "y","price":3474,"checked": false
+    ,
+    {
+      "id": 3,"name": "y","price":3474,"checked": false
+    ,
+  ]
+}
